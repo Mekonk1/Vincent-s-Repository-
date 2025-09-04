@@ -1,6 +1,10 @@
 # Hi, I'm Vincent Le
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
+
+`![Photo loading...](./assets/IMG_2735.png)`
+
+
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
 - 🧠 Concept I learned: *(short note)*
