@@ -1,4 +1,5 @@
-[Return to Portfolio](./posts/index.md) # First Reflection
+[Return to Portfolio](./posts/index.md)
+# First Reflection
 What I learned this week (bullets are fine, you may include an image):
 
 - Topic(s):
